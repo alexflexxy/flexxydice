@@ -1,0 +1,2 @@
+# flexxydice
+trial dice game
